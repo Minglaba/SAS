@@ -1,5 +1,3 @@
-'Create 5 students table
-
 DATA Student;
 INPUT Name$ Sub1 Sub2 Sub3 Gender$;
 datalines;
